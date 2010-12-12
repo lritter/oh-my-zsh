@@ -18,4 +18,5 @@ export CASE_SENSITIVE="true"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 plugins=(git brew)
 
+source $ZSH/environment.zsh
 source $ZSH/oh-my-zsh.sh
