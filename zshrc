@@ -20,3 +20,5 @@ plugins=(git brew)
 
 source $ZSH/environment.zsh
 source $ZSH/oh-my-zsh.sh
+
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function

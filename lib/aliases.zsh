@@ -21,3 +21,18 @@ alias ll='ls -l'
 alias sl=ls # often screw this up
 
 alias afind='ack-grep -il'
+
+# Make mvim easier to type...
+alias v='mvim'
+
+# Make bbedit easier to start
+alias bb='bbedit'
+
+# Using gitx is good
+alias gitx='open -a GitX .'
+
+# Git
+## git-smart
+alias gup='git smart-pull'
+alias gm='git smart-merge'
+alias gl='git smart-log'
